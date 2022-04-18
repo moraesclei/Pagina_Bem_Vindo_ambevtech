@@ -1,0 +1,26 @@
+
+body{
+
+    background-color: #181720;
+}
+h1{
+    padding: 10px 8px 3px 530px;   
+    font-family:'IBM Plex Sans', sans-serif;
+    color: aliceblue;
+}
+h2{
+    padding: 3px 10px 3px 460px;  
+    font-family:'IBM Plex Sans', sans-serif;
+    color: aliceblue;
+}
+img{
+    padding: 10px 15px 20px 400px;
+    height: 400px;
+    width: 600PX;
+    margin: 10px;
+}
+
+li{
+    padding: 10px 15px 20px 460px; 
+    color: aliceblue;
+}
